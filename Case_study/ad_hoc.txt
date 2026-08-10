@@ -86,7 +86,7 @@
  
     Possible failure points include:
 
-    1. Tower damage
+    1. Tower damage.
     2. Power failure
     3. Fiber/backhaul damage
     4. Network congestion
