@@ -30,7 +30,6 @@ SX1262:
  Although there are more advanced LoRa transceivers available, the most advanced module is not always the best choice for a particular project. For the current requirements of Terralink, SX1262 provides the required performance without adding unnecessary complexity.
  The SX1262 is selected as the communication transceiver for each Terralink node, while handling packet collisions, duplicate messages and controlled forwarding will be managed through the Terralink communication protocol.
 
-
 Communication Range Target:
  For the real-world version of Terralink, our target is:
  To achieve at least 10 km communication under favourable conditions using a properly matched external antenna and suitable antenna placement.
