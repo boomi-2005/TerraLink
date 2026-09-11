@@ -550,11 +550,7 @@ Government College of Engineering, Bodinayakanur
 * S. Gopika
 * Aswathi Sunil Kumar
 
-**Project Mentor**
 
-Prof. K. Tamizhmaran
-
----
 
 ## Project
 
@@ -566,6 +562,4 @@ Developed as part of **Project Expo 2026 / Niral Thiruvizha 3.0**.
 
 ## License
 
-This project is developed primarily for academic, research, and prototype purposes.
-
-See `LICENSE` for the applicable license terms.
+This project is developed primarily for academic, research, and prototype purposes.s.
